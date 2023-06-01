@@ -1,0 +1,21 @@
+City,Temperature,Humidity,Condition
+Paris,19,43,Cloudy
+Tokyo,16,13,Sunny
+Kyoto,38,96,Rainy
+Sydney,37,74,Rainy
+New York,37,84,Rainy
+Londo,17,32,Cloudy
+Sao Paulo,10,100,Sunny
+Rio de Janeiro,24,91,Rainy
+Madrid,24,36,Rainy
+Cairo,38,95,Sunny
+Porto,32,52,Rainy
+Toronto,18,76,Sunny
+Lagos,10,87,Cloudy
+Los Angeles,9,3,Cloudy
+Chicago,19,97,Snowy
+Ottawa,0,91,Cloudy
+Liverpool,-4,46,Cloudy
+Lyon,14,4,Rainy
+Roma,35,73,Snowy
+Moscow,1,96,Cloudy
